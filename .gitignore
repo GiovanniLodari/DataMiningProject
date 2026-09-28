@@ -1,0 +1,8 @@
+.venv/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+
+# Export Graphviz prodotto dal notebook
+decision_tree
+decision_tree.pdf
