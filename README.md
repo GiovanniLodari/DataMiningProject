@@ -2,7 +2,7 @@
 
 Analysis of **customer churn** at a telecommunications company: understanding which customers leave and predicting it. The dataset (7,043 customers) comes from the IBM sample files and combines demographics, subscribed services, pricing plan and customer status.
 
-University project for the Data Mining course. All the work is in the notebook [`ProgettoDM.ipynb`](ProgettoDM.ipynb); [`ProgettoDM.html`](ProgettoDM.html) is its export, readable without installing anything. The notebook text is in Italian.
+University project for the Data Mining course, developed with Vincenzo Napoli. All the work is in the notebook [`ProgettoDM.ipynb`](ProgettoDM.ipynb); [`ProgettoDM.html`](ProgettoDM.html) is its export, readable without installing anything. The notebook text is in Italian.
 
 ## What the notebook covers
 
